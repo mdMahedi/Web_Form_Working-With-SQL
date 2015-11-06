@@ -1,0 +1,6 @@
+H:\Mahedi C#\ASP.net\Class\ASP Files\WorkWithSql\WorkWithSql\obj\Debug\WorkWithSql.csprojResolveAssemblyReference.cache
+H:\Mahedi C#\ASP.net\Class\ASP Files\WorkWithSql\WorkWithSql\bin\WorkWithSql.dll.config
+H:\Mahedi C#\ASP.net\Class\ASP Files\WorkWithSql\WorkWithSql\bin\WorkWithSql.dll
+H:\Mahedi C#\ASP.net\Class\ASP Files\WorkWithSql\WorkWithSql\bin\WorkWithSql.pdb
+H:\Mahedi C#\ASP.net\Class\ASP Files\WorkWithSql\WorkWithSql\obj\Debug\WorkWithSql.dll
+H:\Mahedi C#\ASP.net\Class\ASP Files\WorkWithSql\WorkWithSql\obj\Debug\WorkWithSql.pdb
